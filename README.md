@@ -14,8 +14,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td>
 </tr></table>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
-
 
 <!--
 **mfvargas/mfvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
