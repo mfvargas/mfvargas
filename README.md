@@ -1,6 +1,7 @@
 ### Manuel Vargas
 
-Informático especializado en sistemas de información geográfica e informática de la biodiversidad.
+- 🔭 Trabajando actualmente en:
+    - Preparación de cursos sobre [Python](https://www.python.org/) y [R](https://www.r-project.org/).
 
 <!--
 **mfvargas/mfvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
