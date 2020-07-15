@@ -4,7 +4,7 @@
 
 ### Cursos y talleres
 <!-- recent_releases starts -->
-* [datasette-plugin-demos 0.4](https://github.com/simonw/datasette-plugin-demos/releases/tag/0.4) - 2020-07-14
+* [Taller sobre manejo de datos geográficos mediante R y RStudio](https://taller-r-jornadas-sigtd-2020.github.io/) - 2020-07-10
 <!-- recent_releases ends -->
 </td>
 </tr></table>
