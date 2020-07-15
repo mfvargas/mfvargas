@@ -13,17 +13,6 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top">
 
-### On my blog
-<!-- blog starts -->
-* [Building a self-updating profile README for GitHub](http://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - 2020-07-10
-* [Weeknotes: SBA Covid-19 PPP loans, Datasette talks, Datasette plugin upgrades](http://simonwillison.net/2020/Jul/9/sba-covid-19-ppp-loans/) - 2020-07-09
-* [Datasette 0.45: The annotated release notes](http://simonwillison.net/2020/Jul/1/datasette-045/) - 2020-07-01
-* [Weeknotes: cookiecutter templates, better plugin documentation, sqlite-generate](http://simonwillison.net/2020/Jun/26/weeknotes-plugins-sqlite-generate/) - 2020-06-26
-* [A cookiecutter template for writing Datasette plugins](http://simonwillison.net/2020/Jun/20/cookiecutter-plugins/) - 2020-06-20
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
-</td><td valign="top">
-
 ### TIL
 <!-- tils starts -->
 * [Password hashing in Python with pbkdf2](https://github.com/simonw/til/blob/master/python/password-hashing-with-pbkdf2.md) - 2020-07-14
