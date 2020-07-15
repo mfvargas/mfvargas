@@ -1,8 +1,11 @@
-### Manuel Vargas
-
-- 🔭 Trabajando actualmente en:
-    - Preparación de cursos sobre [Python](https://www.python.org/) y [R](https://www.r-project.org/).
-
+<table>
+<tr>
+<td valign="top">
+### Cursos y talleres
+* [Taller sobre manejo de datos geográficos mediante R y RStudio](https://taller-r-jornadas-sigtd-2020.github.io/) - 2020/07/10 - II Jornada de SIG y TD libres (UCR)
+</td>
+</tr>
+</table>
 <!--
 **mfvargas/mfvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
