@@ -5,6 +5,7 @@
 ### Cursos y talleres
 <!-- recent_releases starts -->
 * [Taller sobre manejo de datos geográficos mediante R y RStudio](https://taller-r-jornadas-sigtd-2020.github.io/) - 2020/07/10 - II Jornada de SIG y TD libres (UCR)
+* [Curso "GF-0604 Procesamiento de datos geográficos"](https://geoprocesamiento-2020i.github.io/) - I ciclo 2020 - Escuela de Geografía de la UCR
 <!-- recent_releases ends -->
 </td>
 </tr></table>
