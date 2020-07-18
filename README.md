@@ -15,7 +15,7 @@
 <!--
 ![Contador](https://profile-counter.glitch.me/{mfvargas}/count.svg)
 -->
-<img align="right" height="25" src="https://profile-counter.glitch.me/{mfvargas}/count.svg">
+<img align="right" height="15" src="https://profile-counter.glitch.me/{mfvargas}/count.svg">
 
 
 <!--
