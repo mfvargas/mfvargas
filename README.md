@@ -12,8 +12,10 @@
 </td>
 </tr></table>
 
+<!--
 ![Contador](https://profile-counter.glitch.me/{mfvargas}/count.svg)
-<img align="right" width="100" height="100" src="https://profile-counter.glitch.me/{mfvargas}/count.svg">
+-->
+<img align="right" height="100" src="https://profile-counter.glitch.me/{mfvargas}/count.svg">
 
 
 <!--
