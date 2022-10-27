@@ -4,6 +4,7 @@
 
 ### Cursos y talleres
 <!-- inicio de cursos y talleres -->
+* [Curso: PF0953 Programación en R](https://pf0953-programacionr.github.io/2022-ii/) - II ciclo 2022 - Maestría en Gestión del Recurso Hídrico de la UCR
 * [Curso: GF0657 Programación en SIG (con Python)](https://gf0657-programacionsig.github.io/) - Escuela de Geografía de la UCR
 * [Curso: GF0604 Procesamiento de datos geográficos (con R)](https://gf0604-procesamientodatosgeograficos.github.io/) - Escuela de Geografía de la UCR
 * [Curso: PF-3311 Ciencia de datos geoespaciales](https://pf3311-cienciadatosgeoespaciales.github.io/) - Programa de Posgrado en Computación e Informática de la UCR
