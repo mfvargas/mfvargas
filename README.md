@@ -1,8 +1,3 @@
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=mfvargas)
-
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=mfvargas)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <table>
   <tr>
     <td valign="top">
@@ -28,6 +23,9 @@
 -->
 <img align="right" height="15" src="https://profile-counter.glitch.me/{mfvargas}/count.svg">
 
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=mfvargas)
+
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=mfvargas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mfvargas/mfvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
