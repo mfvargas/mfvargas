@@ -4,12 +4,11 @@
 
 ### Cursos y talleres
 <!-- inicio de cursos y talleres -->
-* [Curso: PF0953 Programación en R](https://pf0953-programacionr.github.io/2022-ii/) - II ciclo 2022 - Maestría en Gestión del Recurso Hídrico de la UCR
+* [Curso: GF0604 Procesamiento de datos geográficos (con R)](https://gf0604-procesamientodatosgeograficos.github.io/2023-i) - Escuela de Geografía de la UCR
+* [Curso: PF0953 Programación en R](https://pf0953-programacionr.github.io/2022-ii/) - Maestría en Gestión del Recurso Hídrico de la UCR
 * [Curso: GF0657 Programación en SIG (con Python)](https://gf0657-programacionsig.github.io/) - Escuela de Geografía de la UCR
-* [Curso: GF0604 Procesamiento de datos geográficos (con R)](https://gf0604-procesamientodatosgeograficos.github.io/) - Escuela de Geografía de la UCR
 * [Curso: PF-3311 Ciencia de datos geoespaciales](https://pf3311-cienciadatosgeoespaciales.github.io/) - Programa de Posgrado en Computación e Informática de la UCR
 * [Curso: TPB728O Programación de aplicaciones geoespaciales en R](https://tpb728o-programaciongeoespacialr.github.io/) - Maestría en SIG y TD de la UCR y la UNA
-* [Curso: PF0953 Programación geoespacial en R](https://pf0953-programaciongeoespacialr-2020.github.io/) - II ciclo 2020 - Maestría en Gestión del Recurso Hídrico de la UCR
 * [Curso: TPB708 Programación de aplicaciones en SIG (con Python)](https://tpb708-programacionsig-2020.github.io/) - II ciclo 2020 - Maestría en SIG y TD de la UCR y la UNA
 * [Taller: Manejo de datos geográficos mediante R y RStudio](https://taller-r-jornadas-sigtd-2020.github.io/) - 2020/07/10 - II Jornada de SIG y TD libres de la UCR
 * [Curso: Programación de aplicaciones geoespaciales en la Web](https://mfvargas.github.io/curso-programacion-web-geoespacial/) - II ciclo 2019 - Maestría en SIG y TD de la UCR y la UNA
