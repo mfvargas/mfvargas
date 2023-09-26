@@ -4,7 +4,7 @@
 
 ### Cursos y talleres
 <!-- inicio de cursos y talleres -->
-* [GF-0659 Exploración y explotación de geodatos](https://gf0659-exploraciongeodatos.github.io/2023-ii/)
+* [GF-0659 Exploración y explotación de geodatos](https://gf0659-exploraciongeodatos.github.io/2023-ii/) - Escuela de Geografía de la UCR
 * [Curso: GF0604 Procesamiento de datos geográficos (con R)](https://gf0604-procesamientodatosgeograficos.github.io/2023-i) - Escuela de Geografía de la UCR
 * [Curso: PF0953 Programación en R](https://pf0953-programacionr.github.io/2022-ii/) - Maestría en Gestión del Recurso Hídrico de la UCR
 * [Curso: GF0657 Programación en SIG (con Python)](https://gf0657-programacionsig.github.io/) - Escuela de Geografía de la UCR
