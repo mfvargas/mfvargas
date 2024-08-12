@@ -4,12 +4,12 @@
 
 ### Cursos y talleres
 <!-- inicio de cursos y talleres -->
+* [Curso: GF-0657 Programación en SIG (con Python)](https://gf0657-programacionsig.github.io/) - Escuela de Geografía de la UCR
 * [Curso: PF-0914 Programación de SIG en la Web (con Leaflet y GeoDjango)](https://pf0914-desarrollosigweb.github.io/2024-i/) - Maestría en SIG y TD de la UCR y la UNA
 * [Curso: GF-0604 Procesamiento de datos geográficos (con R)](https://gf0604-procesamientodatosgeograficos.github.io/2024-i) - Escuela de Geografía de la UCR
 * [Curso: PF-0907 Programación de aplicaciones en SIG (con Python)](https://pf0907-programacionsig.github.io/2023-ii/) - Maestría en SIG y TD de la UCR y la UNA
 * [Curso: GF-0659 Exploración y explotación de geodatos (con SQL)](https://gf0659-exploraciongeodatos.github.io/2023-ii/) - Escuela de Geografía de la UCR
 * [Curso: PF-0953 Programación en R](https://pf0953-programacionr.github.io/2022-ii/) - Maestría en Gestión del Recurso Hídrico de la UCR
-* [Curso: GF-0657 Programación en SIG (con Python)](https://gf0657-programacionsig.github.io/) - Escuela de Geografía de la UCR
 * [Curso: PF-3311 Ciencia de datos geoespaciales](https://pf3311-cienciadatosgeoespaciales.github.io/) - Programa de Posgrado en Computación e Informática de la UCR
 * [Curso: TPB-728O Programación de aplicaciones geoespaciales en R](https://tpb728o-programaciongeoespacialr.github.io/) - Maestría en SIG y TD de la UCR y la UNA
 * [Taller: Manejo de datos geográficos mediante R y RStudio](https://taller-r-jornadas-sigtd-2020.github.io/) - 2020/07/10 - II Jornada de SIG y TD libres de la UCR
