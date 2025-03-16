@@ -11,8 +11,7 @@
 * [Curso: PF-0914 Programación de SIG en la Web (con Leaflet y GeoDjango)](https://pf0914-desarrollosigweb.github.io/2024-i/) - Maestría en SIG y TD de la UCR y la UNA
 * [Curso: PF-0907 Programación de aplicaciones en SIG (con Python)](https://pf0907-programacionsig.github.io/2023-ii/) - Maestría en SIG y TD de la UCR y la UNA
 * [Curso: GF-0659 Exploración y explotación de geodatos (con SQL)](https://gf0659-exploraciongeodatos.github.io/2023-ii/) - Escuela de Geografía de la UCR
-* [Curso: PF-3311 Ciencia de datos geoespaciales](https://pf3311-cienciadatosgeoespaciales.github.io/) - Programa de Posgrado en Computación e Informática de la UCR
-* [Curso: TPB-728O Programación de aplicaciones geoespaciales en R](https://tpb728o-programaciongeoespacialr.github.io/) - Maestría en SIG y TD de la UCR y la UNA
+* [Curso: PF-3311 Ciencia de datos geoespaciales](https://pf3311-cienciadatosgeoespaciales.github.io/2021-iii/) - Programa de Posgrado en Computación e Informática de la UCR
 <!-- fin de cursos y talleres -->
 </td>
 </tr></table>
