@@ -6,7 +6,7 @@
 <!-- inicio de cursos y talleres -->
 * [Curso: PF-3311 Ciencia de datos geoespaciales](https://pf3311-cienciadatosgeoespaciales.github.io/2025-ii/) - Programa de Posgrado en Computación e Informática de la UCR
 * [Curso: GF-0659 Exploración y explotación de geodatos (con SQL)](https://gf0659-exploraciongeodatos.github.io/2025-ii/) - Escuela de Geografía de la UCR
-* [Curso: Sistemas de Información Geográfica en R]([https://datos-geoespaciales-biodiversidad.github.io/python/](https://sigenr.github.io/2025-i/)) - Programa de capacitación, actualización y divulgación de la Escuela de Geografía de la UCR (PROCADI)
+* [Curso: Sistemas de Información Geográfica en R](https://sigenr.github.io/2025-i/) - PROCADI - Escuela de Geografía de la UCR
 * [Curso: GF-0604 Procesamiento de datos geográficos (con R)](https://gf0604-procesamientodatosgeograficos.github.io/2025-i) - Escuela de Geografía de la UCR
 * [Curso: Procesamiento de datos geoespaciales de biodiversidad (con Python)](https://datos-geoespaciales-biodiversidad.github.io/python/) - Red Bioma
 * [Curso: GF-0657 Programación en SIG (con Python)](https://gf0657-programacionsig.github.io/2024-ii/) - Escuela de Geografía de la UCR
